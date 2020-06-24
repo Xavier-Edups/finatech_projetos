@@ -1,0 +1,1 @@
+# finatech_curriculo
