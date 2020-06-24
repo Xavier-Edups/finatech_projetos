@@ -1,3 +1,3 @@
-# finatech_curriculo
+# finatech_projetos
 
 Repositório com projetos requisitado no edital.
