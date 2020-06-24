@@ -1,3 +1,3 @@
-# finatech_projetos
+# Recuperador de arquivos
 
-Repositório com projetos requisitado no edital.
+Ferramenta simples de recuperação de arquivos em forma JPEG apartir do arquivo RAW de um dispositivo de armazenamento de fotos.
